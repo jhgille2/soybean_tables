@@ -1,7 +1,4 @@
-# soybean_tables
-Some quick examples for webscrapting/making tables using soybean data
-
-## Overview
+# Overview
 Some code to show some webscraping and table formatting with the rvest/gt/kableExtra packages.
 
 ## Usage
