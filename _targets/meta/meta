@@ -1,0 +1,8 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+get_soystats_oil_table|function|836952df70b899d3|||||||||||||||
+make_soystats_gt|function|65fbe72fb6ec3122|||||||||||||||
+plant_row_data|stem|aa99594d7b6f1655|5dbbcd739b4f2c86|7f7ae9f7962219f7|-732697888||t19128.7106696953s|3016b6c783f40d5f|35406|rds|local|vector|||0.68||
+plant_row_file|stem|9dd4c0f403bfcdd1|024e2807950079ea|4e3739ef91745af0|12165776|C:/Users/Jay/Desktop/Documents/R/soybean_tables/data/merged_plant_rows_2021.csv|t19089.5497285537s|6c00401d4cae6e21|169544|file|local|vector|||0||
+soystats_gt|stem|1447d5b291d0772b|8304345fda48ca4a|fe07a92dbe9cec99|634080553||t19128.7368781793s|ecbef5af45643138|3917|rds|local|vector|||0.91||
+soystats_oil_data|stem|498cb14a12fbdf92|6396aaf27de4cde1|b25ede6511175dd0|-1906387509||t19128.7201122085s|e3932e3f765af033|720|rds|local|vector|||0.44||
+soystats_oil_url|stem|83cd742d6978a7a1|9db323df97fbde60|ef46db3751d8e999|-847764144||t19128.7106613504s|1990819d57dec260|107|rds|local|vector|||0||
